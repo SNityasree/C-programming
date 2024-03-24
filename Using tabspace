@@ -1,0 +1,15 @@
+
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char username[50];
+    char password[50];
+
+   
+    printf("Enter username and password separated by a space: ");
+    scanf("%s %s", username, password);
+    printf("%s\t%s\n", username, password);
+
+    return 0;
+}
