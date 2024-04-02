@@ -6,8 +6,6 @@ int main() {
     char character;
     int integer;
     float floating;
-
-    // Input
     printf("Enter a character, an integer, and a float separated by spaces: ");
     scanf("%c %d %f", &character, &integer, &floating);
 
