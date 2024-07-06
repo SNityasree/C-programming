@@ -1,4 +1,4 @@
-*/Count occurrences of a digit
+/*Count occurrences of a digit
 
 Problem statement
 
@@ -50,8 +50,8 @@ Input 2 :
 100 
 9
 Output 2 :
-20
-
+2
+*/
 // You are using GCC
 #include <stdio.h>
 int CountDidOccur(int l,int u,int x){
